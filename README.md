@@ -73,11 +73,11 @@ python -m venv venv
   source venv/bin/activate
   ```
 
-## Contributing:
+## Contributing 📌:
 If you'd like to contribute to this project, please follow the standard GitHub fork and pull request process. Contributions, issues, and feature requests are welcome!
 
 ## Suggestion🚀: 
 If you have any suggestions for me related to this project, feel free to contact me at tusharsinghrawat.delhi@gmail.com or <a href="https://www.linkedin.com/in/singhxtushar/">LinkedIn</a>.
 
-## License :
+## License 📝:
 This project is licensed under the <a href="https://github.com/SINGHxTUSHAR/SpamSlayer/blob/main/LICENSE">MIT License</a> - see the LICENSE file for details.
